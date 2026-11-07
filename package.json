@@ -1,0 +1,11 @@
+{
+  "name": "turath-ts-trilateral-root-stemmer",
+  "version": "1.0.0",
+  "description": "Classical Arabic Khoja/ISRI-Style Trilateral Root Extractor (مستخرج الجذور الثلاثية والرباعية من النصوص التراثية)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
